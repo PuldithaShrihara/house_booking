@@ -10,14 +10,16 @@ import com.example.house_booking.R
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+        setContentView(R.layout.activity_login)  // make sure this XML exists
 
-        findViewById<Button>(R.id.loginButton).setOnClickListener {
-            startActivity(Intent(this, HomeActivity::class.java))
+        // Login Button → Go to HomeActivity
+        val loginButton = findViewById<Button>(R.id.loginButton)
+        loginButton.setOnClickListener {
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+            finish() // optional: closes login so back button won’t return here
         }
 
-       /* findViewById<TextView>(R.id.signupPrompt).setOnClickListener {
-            startActivity(Intent(this, SignupActivity::class.java))
-        }*/
+
     }
 }
