@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary 60%: Blue -->
+    <color name="primary">#2D9CDB</color> <!-- Bright Blue -->
+    <color name="primaryDark">#1B74B6</color> <!-- Darker Blue -->
+
+    <!-- Secondary 30%: Grey -->
+    <color name="secondary">#B0B0B0</color> <!-- Medium Grey -->
+    <color name="secondaryDark">#828282</color> <!-- Dark Grey -->
+
+    <!-- Accent 10%: White -->
+    <color name="accent">#FFFFFF</color> <!-- Pure White -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#333333</color> <!-- Dark Grey for main text -->
+    <color name="textSecondary">#666666</color> <!-- Medium Grey for secondary text -->
+
+    <!-- Backgrounds -->
+    <color name="background">#E5E5E5</color> <!-- Light Grey / Off-white for main background -->
+</resources>

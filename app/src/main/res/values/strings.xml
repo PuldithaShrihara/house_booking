@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prime Homes</string>
+    <string name="login">Login</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="available_houses">Available Houses</string>
+    <string name="house_image">House Image</string>
+    <string name="book_now">Book Now</string>
+    <string name="booking_form">Booking Form</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="booking_confirmed">Your booking has been confirmed.</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="about_us">About Us</string>
+    <string name="profile">Profile</string>
+    <string name="app_logo">app_logo</string>
+    <string name="signup_prompt">signup</string>
+</resources>
