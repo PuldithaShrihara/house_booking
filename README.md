@@ -1,0 +1,2 @@
+House Booking & Rental Mobile Application (Kotlin)
+This mobile application is developed using Kotlin to simplify the process of booking and renting houses. It allows users to browse available properties, view detailed house information, check availability, and make rental bookings through an easy-to-use interface. The app is designed with a focus on user experience, security, and performance, providing a reliable platform for both renters and property owners to manage listings and bookings efficiently.
